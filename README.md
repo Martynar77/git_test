@@ -1,0 +1,1 @@
+This is my first The Odinn Project assignment, where I refresh my knowledge about how to use git.
